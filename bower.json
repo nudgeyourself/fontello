@@ -1,0 +1,19 @@
+{
+  "name": "fontello",
+  "homepage": "https://github.com/nudgeyourself/fontello",
+  "authors": [
+    "Chris Garson <cgarson@gmail.com>"
+  ],
+  "description": "icon fonts generator",
+  "main": "css/fontello.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "webapp/bower_components",
+    "test",
+    "tests"
+  ]
+}
